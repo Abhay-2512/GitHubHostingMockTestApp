@@ -1,0 +1,1890 @@
+{
+  "QuestionPaper": [
+    {
+      "id": "1",
+      "CureAnswer": "Ocean depth",
+      "Question": "Fathometer is used to measure",
+      "Answers": [
+        " Earthquakes",
+        "Rainfall",
+        "Ocean depth",
+        "Sound intensity",
+        "Other"
+      ]
+    },
+    {
+      "id": "2",
+      "CureAnswer": "Dr. A.P.J. Abdul Kalam",
+      "Question": "Who is known as 'the father of Indian missile technology'?",
+      "Answers": [
+        "Dr. U.R. Rao",
+        "Dr. A.P.J. Abdul Kalam",
+        "Dr. Chidambaram",
+        "Dr. Homi Bhabha",
+        "Other"
+      ]
+    },
+    {
+      "id": "3",
+      "CureAnswer": "they produce high pitched sounds called ultrasonics",
+      "Question": "Bats can fly in the dark because",
+      "Answers": [
+        " they have a better vision in the dark",
+        "he light startles in them",
+        "they produce high pitched sounds called ultrasonics",
+        "they have God Gift",
+        "none of the above"
+      ]
+    },
+    {
+      "id": "4",
+      "CureAnswer": "Mumbai",
+      "Question": "Which is considered as the biggest port of India?",
+      "Answers": [
+        "Kolkata",
+        "Cochin",
+        "Chennai",
+        "Mumbai",
+        "Delhi"
+      ],
+      "Answers0": [
+        "Kolkata"
+      ]
+    },
+    {
+      "id": "5",
+      "CureAnswer": "Railways",
+      "Question": "The biggest public sector undertaking in the country is",
+      "Answers": [
+        "Iron and steel Plants",
+        "Roadways",
+        "Railways",
+        "Airways",
+        "SeaWays"
+      ]
+    },
+    {
+      "id": "6",
+      "CureAnswer": "Equator",
+      "Question": "At which particular place on earth are days and nights of equal length always?",
+      "Answers": [
+        "Prime Meridian",
+        "Poles",
+        "Equator",
+        "South Pole",
+        "No where"
+      ]
+    },
+    {
+      "id": "7",
+      "CureAnswer": "Astronomy",
+      "Question": "The study of Heavenly bodies is called",
+      "Answers": [
+        "Astronomy",
+        "Astrology",
+        "Astrophysics",
+        "Astronautics",
+        "Other"
+      ]
+    },
+    {
+      "id": "8",
+      "CureAnswer": "Delhi",
+      "Question": "Kempegowda Festival was organized in which city ?",
+      "Answers": [
+        "Hyderabad",
+        "Delhi",
+        "Mumbai",
+        "Chennai",
+        "Kolkata"
+      ]
+    },
+    {
+      "id": "9",
+      "CureAnswer": "Kalology",
+      "Question": "What is the Study of human beauty called?",
+      "Answers": [
+        "Argology",
+        "Kalology",
+        "Agrostology",
+        "Oncology",
+        "Angeology"
+      ]
+    },
+    {
+      "id": "10",
+      "CureAnswer": "Caricaxanthin",
+      "Question": "Yellow colour of papaya is due to",
+      "Answers": [
+        "Caricaxanthin",
+        "Carotene",
+        "Lycopene",
+        "Papain",
+        "Canin"
+      ]
+    }
+  ],
+  "CandidateRegInfo": [
+    {
+      "id": 1,
+      "Username": "Abhay",
+      "UserID": "Abhay2512",
+      "Password": "Abhay",
+      "Status": false
+    },
+    {
+      "id": 2,
+      "Username": "Abhay2",
+      "UserID": "Abhay2",
+      "Password": "Abhay2",
+      "Status": true
+    },
+    {
+      "Username": "abhay",
+      "UserID": "AbhayB",
+      "Password": "Abhay",
+      "id": 3,
+      "Status": true
+    },
+    {
+      "Username": "Akshay bokade",
+      "UserID": "Akshay",
+      "Password": "Akshay",
+      "id": 4,
+      "Status": true
+    },
+    {
+      "Username": "avb",
+      "UserID": "AVB",
+      "Password": "AVB",
+      "id": 5,
+      "Status": true
+    },
+    {
+      "Username": "avb1",
+      "UserID": "AVB1",
+      "Password": "AVB1",
+      "id": 6,
+      "Status": true
+    },
+    {
+      "Username": "sayli bokade",
+      "UserID": "Sayali",
+      "Password": "Sayali",
+      "id": 7,
+      "Status": true
+    },
+    {
+      "Username": "Sushil",
+      "UserID": "sushil",
+      "Password": "sushil",
+      "id": 8,
+      "Status": true
+    },
+    {
+      "Username": "a",
+      "UserID": "b",
+      "Password": "c",
+      "id": 9,
+      "Status": false
+    },
+    {
+      "Username": "ABHAY",
+      "UserID": "ABHAY",
+      "Password": "ABHAY",
+      "id": 10,
+      "Status": true
+    },
+    {
+      "Username": "Savi Borikar",
+      "UserID": "Savi",
+      "Password": "Savi",
+      "Status": true,
+      "id": 11
+    },
+    {
+      "id": 12,
+      "Username": "abhay",
+      "Email": "Abbokade@gmail.com",
+      "UserID": "abBokade",
+      "Password": "AbBokade",
+      "gender": "Male",
+      "Exam": "CHSL",
+      "Status": true
+    },
+    {
+      "id": 13,
+      "Username": "savi borikar",
+      "Email": "asdcdn@gmail.co",
+      "UserID": "Savi",
+      "Password": "Savi",
+      "gender": "FeMale",
+      "Exam": "GROUP-D",
+      "Status": true
+    },
+    {
+      "id": 14,
+      "Username": "sayali",
+      "Email": "vijay@gmail.com",
+      "UserID": "borikar",
+      "Password": "vijay",
+      "gender": "Male",
+      "Exam": "CGL",
+      "Status": false
+    },
+    {
+      "id": 15,
+      "Username": "skamde",
+      "Email": "skamde@gmail.com",
+      "UserID": "skamde",
+      "Password": "skamde",
+      "gender": "Male",
+      "Exam": "MTS",
+      "Status": true
+    },
+    {
+      "id": 16,
+      "Username": "tushar",
+      "Email": "tushar@gmail.com",
+      "UserID": "tushar111",
+      "Password": "tushar111",
+      "gender": "Male",
+      "Exam": "CHSL",
+      "Status": true
+    },
+    {
+      "id": 17,
+      "Username": "ABHAY",
+      "Email": "acb@gmail.com",
+      "UserID": "ABHAY",
+      "Password": "ABHAY",
+      "gender": "Male",
+      "Exam": "CHSL",
+      "Status": true
+    }
+  ],
+  "AdminRegInfo": [
+    {
+      "UserID": "ABHAY159",
+      "Password": "ABHAY159",
+      "id": 1,
+      "Status": false
+    }
+  ],
+  "CandidateExamDetails": [
+    {
+      "id": 1,
+      "CandidateName": "AVB",
+      "CandidatePassword": "AVB",
+      "CandidateAnswerKey": [
+        {
+          "id": "1",
+          "CureAnswer": "Ocean depth",
+          "Question": "Fathometer is used to measure",
+          "Answers": [
+            " Earthquakes",
+            "Rainfall",
+            "Ocean depth",
+            "Sound intensity",
+            "Other"
+          ]
+        },
+        {
+          "id": "2",
+          "CureAnswer": "Dr. A.P.J. Abdul Kalam",
+          "Question": "Who is known as 'the father of Indian missile technology'?",
+          "Answers": [
+            "Dr. U.R. Rao",
+            "Dr. A.P.J. Abdul Kalam",
+            "Dr. Chidambaram",
+            "Dr. Homi Bhabha",
+            "Other"
+          ]
+        },
+        {
+          "id": "3",
+          "CureAnswer": "they produce high pitched sounds called ultrasonics",
+          "Question": "Bats can fly in the dark because",
+          "Answers": [
+            " they have a better vision in the dark",
+            "he light startles in them",
+            "they produce high pitched sounds called ultrasonics",
+            "they have God Gift",
+            "none of the above"
+          ]
+        },
+        {
+          "id": "4",
+          "CureAnswer": "Mumbai",
+          "Question": "Which is considered as the biggest port of India?",
+          "Answers": [
+            "Kolkata",
+            "Cochin",
+            "Chennai",
+            "Mumbai",
+            "Delhi"
+          ],
+          "Answers0": [
+            "Kolkata"
+          ]
+        },
+        {
+          "id": "5",
+          "CureAnswer": "Railways",
+          "Question": "The biggest public sector undertaking in the country is",
+          "Answers": [
+            "Iron and steel Plants",
+            "Roadways",
+            "Railways",
+            "Airways",
+            "SeaWays"
+          ]
+        },
+        {
+          "id": "6",
+          "CureAnswer": "Equator",
+          "Question": "At which particular place on earth are days and nights of equal length always?",
+          "Answers": [
+            "Prime Meridian",
+            "Poles",
+            "Equator",
+            "South Pole",
+            "No where"
+          ]
+        },
+        {
+          "id": "7",
+          "CureAnswer": "Astronomy",
+          "Question": "The study of Heavenly bodies is called",
+          "Answers": [
+            "Astronomy",
+            "Astrology",
+            "Astrophysics",
+            "Astronautics",
+            "Other"
+          ]
+        },
+        {
+          "id": "8",
+          "CureAnswer": "Delhi",
+          "Question": "Kempegowda Festival was organized in which city ?",
+          "Answers": [
+            "Hyderabad",
+            "Delhi",
+            "Mumbai",
+            "Chennai",
+            "Kolkata"
+          ]
+        },
+        {
+          "id": "9",
+          "CureAnswer": "Kalology",
+          "Question": "What is the Study of human beauty called?",
+          "Answers": [
+            "Argology",
+            "Kalology",
+            "Agrostology",
+            "Oncology",
+            "Angeology"
+          ]
+        },
+        {
+          "id": "10",
+          "CureAnswer": "Caricaxanthin",
+          "Question": "Yellow colour of papaya is due to",
+          "Answers": [
+            "Caricaxanthin",
+            "Carotene",
+            "Lycopene",
+            "Papain",
+            "Canin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "CandidateName": "AVB",
+      "CandidatePassword": "AVB",
+      "CandidateAnswerKey": [
+        {
+          "id": "1",
+          "CureAnswer": "Ocean depth",
+          "Question": "Fathometer is used to measure",
+          "Answers": [
+            " Earthquakes",
+            "Rainfall",
+            "Ocean depth",
+            "Sound intensity",
+            "Other"
+          ]
+        },
+        {
+          "id": "2",
+          "CureAnswer": "Dr. A.P.J. Abdul Kalam",
+          "Question": "Who is known as 'the father of Indian missile technology'?",
+          "Answers": [
+            "Dr. U.R. Rao",
+            "Dr. A.P.J. Abdul Kalam",
+            "Dr. Chidambaram",
+            "Dr. Homi Bhabha",
+            "Other"
+          ]
+        },
+        {
+          "id": "3",
+          "CureAnswer": "they produce high pitched sounds called ultrasonics",
+          "Question": "Bats can fly in the dark because",
+          "Answers": [
+            " they have a better vision in the dark",
+            "he light startles in them",
+            "they produce high pitched sounds called ultrasonics",
+            "they have God Gift",
+            "none of the above"
+          ]
+        },
+        {
+          "id": "4",
+          "CureAnswer": "Mumbai",
+          "Question": "Which is considered as the biggest port of India?",
+          "Answers": [
+            "Kolkata",
+            "Cochin",
+            "Chennai",
+            "Mumbai",
+            "Delhi"
+          ],
+          "Answers0": [
+            "Kolkata"
+          ]
+        },
+        {
+          "id": "5",
+          "CureAnswer": "Railways",
+          "Question": "The biggest public sector undertaking in the country is",
+          "Answers": [
+            "Iron and steel Plants",
+            "Roadways",
+            "Railways",
+            "Airways",
+            "SeaWays"
+          ]
+        },
+        {
+          "id": "6",
+          "CureAnswer": "Equator",
+          "Question": "At which particular place on earth are days and nights of equal length always?",
+          "Answers": [
+            "Prime Meridian",
+            "Poles",
+            "Equator",
+            "South Pole",
+            "No where"
+          ]
+        },
+        {
+          "id": "7",
+          "CureAnswer": "Astronomy",
+          "Question": "The study of Heavenly bodies is called",
+          "Answers": [
+            "Astronomy",
+            "Astrology",
+            "Astrophysics",
+            "Astronautics",
+            "Other"
+          ]
+        },
+        {
+          "id": "8",
+          "CureAnswer": "Delhi",
+          "Question": "Kempegowda Festival was organized in which city ?",
+          "Answers": [
+            "Hyderabad",
+            "Delhi",
+            "Mumbai",
+            "Chennai",
+            "Kolkata"
+          ]
+        },
+        {
+          "id": "9",
+          "CureAnswer": "Kalology",
+          "Question": "What is the Study of human beauty called?",
+          "Answers": [
+            "Argology",
+            "Kalology",
+            "Agrostology",
+            "Oncology",
+            "Angeology"
+          ]
+        },
+        {
+          "id": "10",
+          "CureAnswer": "Caricaxanthin",
+          "Question": "Yellow colour of papaya is due to",
+          "Answers": [
+            "Caricaxanthin",
+            "Carotene",
+            "Lycopene",
+            "Papain",
+            "Canin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "CandidateName": "AVB",
+      "CandidatePassword": "AVB",
+      "CandidateAnswerKey": [
+        {
+          "id": "1",
+          "CureAnswer": "Ocean depth",
+          "Question": "Fathometer is used to measure",
+          "Answers": [
+            " Earthquakes",
+            "Rainfall",
+            "Ocean depth",
+            "Sound intensity",
+            "Other"
+          ]
+        },
+        {
+          "id": "2",
+          "CureAnswer": "Dr. A.P.J. Abdul Kalam",
+          "Question": "Who is known as 'the father of Indian missile technology'?",
+          "Answers": [
+            "Dr. U.R. Rao",
+            "Dr. A.P.J. Abdul Kalam",
+            "Dr. Chidambaram",
+            "Dr. Homi Bhabha",
+            "Other"
+          ]
+        },
+        {
+          "id": "3",
+          "CureAnswer": "they produce high pitched sounds called ultrasonics",
+          "Question": "Bats can fly in the dark because",
+          "Answers": [
+            " they have a better vision in the dark",
+            "he light startles in them",
+            "they produce high pitched sounds called ultrasonics",
+            "they have God Gift",
+            "none of the above"
+          ]
+        },
+        {
+          "id": "4",
+          "CureAnswer": "Mumbai",
+          "Question": "Which is considered as the biggest port of India?",
+          "Answers": [
+            "Kolkata",
+            "Cochin",
+            "Chennai",
+            "Mumbai",
+            "Delhi"
+          ],
+          "Answers0": [
+            "Kolkata"
+          ]
+        },
+        {
+          "id": "5",
+          "CureAnswer": "Railways",
+          "Question": "The biggest public sector undertaking in the country is",
+          "Answers": [
+            "Iron and steel Plants",
+            "Roadways",
+            "Railways",
+            "Airways",
+            "SeaWays"
+          ]
+        },
+        {
+          "id": "6",
+          "CureAnswer": "Equator",
+          "Question": "At which particular place on earth are days and nights of equal length always?",
+          "Answers": [
+            "Prime Meridian",
+            "Poles",
+            "Equator",
+            "South Pole",
+            "No where"
+          ]
+        },
+        {
+          "id": "7",
+          "CureAnswer": "Astronomy",
+          "Question": "The study of Heavenly bodies is called",
+          "Answers": [
+            "Astronomy",
+            "Astrology",
+            "Astrophysics",
+            "Astronautics",
+            "Other"
+          ]
+        },
+        {
+          "id": "8",
+          "CureAnswer": "Delhi",
+          "Question": "Kempegowda Festival was organized in which city ?",
+          "Answers": [
+            "Hyderabad",
+            "Delhi",
+            "Mumbai",
+            "Chennai",
+            "Kolkata"
+          ]
+        },
+        {
+          "id": "9",
+          "CureAnswer": "Kalology",
+          "Question": "What is the Study of human beauty called?",
+          "Answers": [
+            "Argology",
+            "Kalology",
+            "Agrostology",
+            "Oncology",
+            "Angeology"
+          ]
+        },
+        {
+          "id": "10",
+          "CureAnswer": "Caricaxanthin",
+          "Question": "Yellow colour of papaya is due to",
+          "Answers": [
+            "Caricaxanthin",
+            "Carotene",
+            "Lycopene",
+            "Papain",
+            "Canin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "CandidateName": "AVB1",
+      "CandidatePassword": "AVB1",
+      "CandidateAnswerKey": [
+        {
+          "id": "1",
+          "CureAnswer": "Ocean depth",
+          "Question": "Fathometer is used to measure",
+          "Answers": [
+            " Earthquakes",
+            "Rainfall",
+            "Ocean depth",
+            "Sound intensity",
+            "Other"
+          ]
+        },
+        {
+          "id": "2",
+          "CureAnswer": "Dr. A.P.J. Abdul Kalam",
+          "Question": "Who is known as 'the father of Indian missile technology'?",
+          "Answers": [
+            "Dr. U.R. Rao",
+            "Dr. A.P.J. Abdul Kalam",
+            "Dr. Chidambaram",
+            "Dr. Homi Bhabha",
+            "Other"
+          ]
+        },
+        {
+          "id": "3",
+          "CureAnswer": "they produce high pitched sounds called ultrasonics",
+          "Question": "Bats can fly in the dark because",
+          "Answers": [
+            " they have a better vision in the dark",
+            "he light startles in them",
+            "they produce high pitched sounds called ultrasonics",
+            "they have God Gift",
+            "none of the above"
+          ]
+        },
+        {
+          "id": "4",
+          "CureAnswer": "Mumbai",
+          "Question": "Which is considered as the biggest port of India?",
+          "Answers": [
+            "Kolkata",
+            "Cochin",
+            "Chennai",
+            "Mumbai",
+            "Delhi"
+          ],
+          "Answers0": [
+            "Kolkata"
+          ]
+        },
+        {
+          "id": "5",
+          "CureAnswer": "Railways",
+          "Question": "The biggest public sector undertaking in the country is",
+          "Answers": [
+            "Iron and steel Plants",
+            "Roadways",
+            "Railways",
+            "Airways",
+            "SeaWays"
+          ]
+        },
+        {
+          "id": "6",
+          "CureAnswer": "Equator",
+          "Question": "At which particular place on earth are days and nights of equal length always?",
+          "Answers": [
+            "Prime Meridian",
+            "Poles",
+            "Equator",
+            "South Pole",
+            "No where"
+          ]
+        },
+        {
+          "id": "7",
+          "CureAnswer": "Astronomy",
+          "Question": "The study of Heavenly bodies is called",
+          "Answers": [
+            "Astronomy",
+            "Astrology",
+            "Astrophysics",
+            "Astronautics",
+            "Other"
+          ]
+        },
+        {
+          "id": "8",
+          "CureAnswer": "Delhi",
+          "Question": "Kempegowda Festival was organized in which city ?",
+          "Answers": [
+            "Hyderabad",
+            "Delhi",
+            "Mumbai",
+            "Chennai",
+            "Kolkata"
+          ]
+        },
+        {
+          "id": "9",
+          "CureAnswer": "Kalology",
+          "Question": "What is the Study of human beauty called?",
+          "Answers": [
+            "Argology",
+            "Kalology",
+            "Agrostology",
+            "Oncology",
+            "Angeology"
+          ]
+        },
+        {
+          "id": "10",
+          "CureAnswer": "Caricaxanthin",
+          "Question": "Yellow colour of papaya is due to",
+          "Answers": [
+            "Caricaxanthin",
+            "Carotene",
+            "Lycopene",
+            "Papain",
+            "Canin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "CandidateName": "ABHAY",
+      "CandidatePassword": "ABHAY",
+      "CandidateAnswerKey": [
+        {
+          "id": "1",
+          "CureAnswer": "Ocean depth",
+          "Question": "Fathometer is used to measure",
+          "Answers": [
+            " Earthquakes",
+            "Rainfall",
+            "Ocean depth",
+            "Sound intensity",
+            "Other"
+          ],
+          "Option": "3",
+          "OptionText": "Ocean depth"
+        },
+        {
+          "id": "2",
+          "CureAnswer": "Dr. A.P.J. Abdul Kalam",
+          "Question": "Who is known as 'the father of Indian missile technology'?",
+          "Answers": [
+            "Dr. U.R. Rao",
+            "Dr. A.P.J. Abdul Kalam",
+            "Dr. Chidambaram",
+            "Dr. Homi Bhabha",
+            "Other"
+          ],
+          "Option": "2",
+          "OptionText": "Dr. A.P.J. Abdul Kalam"
+        },
+        {
+          "id": "3",
+          "CureAnswer": "they produce high pitched sounds called ultrasonics",
+          "Question": "Bats can fly in the dark because",
+          "Answers": [
+            " they have a better vision in the dark",
+            "he light startles in them",
+            "they produce high pitched sounds called ultrasonics",
+            "they have God Gift",
+            "none of the above"
+          ],
+          "Option": "3",
+          "OptionText": "they produce high pitched sounds called ultrasonics"
+        },
+        {
+          "id": "4",
+          "CureAnswer": "Mumbai",
+          "Question": "Which is considered as the biggest port of India?",
+          "Answers": [
+            "Kolkata",
+            "Cochin",
+            "Chennai",
+            "Mumbai",
+            "Delhi"
+          ],
+          "Answers0": [
+            "Kolkata"
+          ],
+          "Option": "2",
+          "OptionText": "Cochin"
+        },
+        {
+          "id": "5",
+          "CureAnswer": "Railways",
+          "Question": "The biggest public sector undertaking in the country is",
+          "Answers": [
+            "Iron and steel Plants",
+            "Roadways",
+            "Railways",
+            "Airways",
+            "SeaWays"
+          ],
+          "Option": "3",
+          "OptionText": "Railways"
+        },
+        {
+          "id": "6",
+          "CureAnswer": "Equator",
+          "Question": "At which particular place on earth are days and nights of equal length always?",
+          "Answers": [
+            "Prime Meridian",
+            "Poles",
+            "Equator",
+            "South Pole",
+            "No where"
+          ],
+          "Option": "1",
+          "OptionText": "Prime Meridian"
+        },
+        {
+          "id": "7",
+          "CureAnswer": "Astronomy",
+          "Question": "The study of Heavenly bodies is called",
+          "Answers": [
+            "Astronomy",
+            "Astrology",
+            "Astrophysics",
+            "Astronautics",
+            "Other"
+          ],
+          "Option": "1",
+          "OptionText": "Astronomy"
+        },
+        {
+          "id": "8",
+          "CureAnswer": "Delhi",
+          "Question": "Kempegowda Festival was organized in which city ?",
+          "Answers": [
+            "Hyderabad",
+            "Delhi",
+            "Mumbai",
+            "Chennai",
+            "Kolkata"
+          ],
+          "Option": "1",
+          "OptionText": "Hyderabad"
+        },
+        {
+          "id": "9",
+          "CureAnswer": "Kalology",
+          "Question": "What is the Study of human beauty called?",
+          "Answers": [
+            "Argology",
+            "Kalology",
+            "Agrostology",
+            "Oncology",
+            "Angeology"
+          ],
+          "Option": "1",
+          "OptionText": "Argology"
+        },
+        {
+          "id": "10",
+          "CureAnswer": "Caricaxanthin",
+          "Question": "Yellow colour of papaya is due to",
+          "Answers": [
+            "Caricaxanthin",
+            "Carotene",
+            "Lycopene",
+            "Papain",
+            "Canin"
+          ],
+          "Option": "1",
+          "OptionText": "Caricaxanthin"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "CandidateName": "ABHAY",
+      "CandidatePassword": "ABHAY",
+      "CandidateAnswerKey": [
+        {
+          "id": "1",
+          "CureAnswer": "Ocean depth",
+          "Question": "Fathometer is used to measure",
+          "Answers": [
+            " Earthquakes",
+            "Rainfall",
+            "Ocean depth",
+            "Sound intensity",
+            "Other"
+          ],
+          "Option": "3",
+          "OptionText": "Ocean depth"
+        },
+        {
+          "id": "2",
+          "CureAnswer": "Dr. A.P.J. Abdul Kalam",
+          "Question": "Who is known as 'the father of Indian missile technology'?",
+          "Answers": [
+            "Dr. U.R. Rao",
+            "Dr. A.P.J. Abdul Kalam",
+            "Dr. Chidambaram",
+            "Dr. Homi Bhabha",
+            "Other"
+          ]
+        },
+        {
+          "id": "3",
+          "CureAnswer": "they produce high pitched sounds called ultrasonics",
+          "Question": "Bats can fly in the dark because",
+          "Answers": [
+            " they have a better vision in the dark",
+            "he light startles in them",
+            "they produce high pitched sounds called ultrasonics",
+            "they have God Gift",
+            "none of the above"
+          ]
+        },
+        {
+          "id": "4",
+          "CureAnswer": "Mumbai",
+          "Question": "Which is considered as the biggest port of India?",
+          "Answers": [
+            "Kolkata",
+            "Cochin",
+            "Chennai",
+            "Mumbai",
+            "Delhi"
+          ],
+          "Answers0": [
+            "Kolkata"
+          ]
+        },
+        {
+          "id": "5",
+          "CureAnswer": "Railways",
+          "Question": "The biggest public sector undertaking in the country is",
+          "Answers": [
+            "Iron and steel Plants",
+            "Roadways",
+            "Railways",
+            "Airways",
+            "SeaWays"
+          ]
+        },
+        {
+          "id": "6",
+          "CureAnswer": "Equator",
+          "Question": "At which particular place on earth are days and nights of equal length always?",
+          "Answers": [
+            "Prime Meridian",
+            "Poles",
+            "Equator",
+            "South Pole",
+            "No where"
+          ]
+        },
+        {
+          "id": "7",
+          "CureAnswer": "Astronomy",
+          "Question": "The study of Heavenly bodies is called",
+          "Answers": [
+            "Astronomy",
+            "Astrology",
+            "Astrophysics",
+            "Astronautics",
+            "Other"
+          ]
+        },
+        {
+          "id": "8",
+          "CureAnswer": "Delhi",
+          "Question": "Kempegowda Festival was organized in which city ?",
+          "Answers": [
+            "Hyderabad",
+            "Delhi",
+            "Mumbai",
+            "Chennai",
+            "Kolkata"
+          ]
+        },
+        {
+          "id": "9",
+          "CureAnswer": "Kalology",
+          "Question": "What is the Study of human beauty called?",
+          "Answers": [
+            "Argology",
+            "Kalology",
+            "Agrostology",
+            "Oncology",
+            "Angeology"
+          ]
+        },
+        {
+          "id": "10",
+          "CureAnswer": "Caricaxanthin",
+          "Question": "Yellow colour of papaya is due to",
+          "Answers": [
+            "Caricaxanthin",
+            "Carotene",
+            "Lycopene",
+            "Papain",
+            "Canin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "CandidateName": "ABHAY",
+      "CandidatePassword": "ABHAY",
+      "CandidateAnswerKey": [
+        {
+          "id": "1",
+          "CureAnswer": "Ocean depth",
+          "Question": "Fathometer is used to measure",
+          "Answers": [
+            " Earthquakes",
+            "Rainfall",
+            "Ocean depth",
+            "Sound intensity",
+            "Other"
+          ],
+          "Option": "3",
+          "OptionText": "Ocean depth"
+        },
+        {
+          "id": "2",
+          "CureAnswer": "Dr. A.P.J. Abdul Kalam",
+          "Question": "Who is known as 'the father of Indian missile technology'?",
+          "Answers": [
+            "Dr. U.R. Rao",
+            "Dr. A.P.J. Abdul Kalam",
+            "Dr. Chidambaram",
+            "Dr. Homi Bhabha",
+            "Other"
+          ]
+        },
+        {
+          "id": "3",
+          "CureAnswer": "they produce high pitched sounds called ultrasonics",
+          "Question": "Bats can fly in the dark because",
+          "Answers": [
+            " they have a better vision in the dark",
+            "he light startles in them",
+            "they produce high pitched sounds called ultrasonics",
+            "they have God Gift",
+            "none of the above"
+          ]
+        },
+        {
+          "id": "4",
+          "CureAnswer": "Mumbai",
+          "Question": "Which is considered as the biggest port of India?",
+          "Answers": [
+            "Kolkata",
+            "Cochin",
+            "Chennai",
+            "Mumbai",
+            "Delhi"
+          ],
+          "Answers0": [
+            "Kolkata"
+          ]
+        },
+        {
+          "id": "5",
+          "CureAnswer": "Railways",
+          "Question": "The biggest public sector undertaking in the country is",
+          "Answers": [
+            "Iron and steel Plants",
+            "Roadways",
+            "Railways",
+            "Airways",
+            "SeaWays"
+          ]
+        },
+        {
+          "id": "6",
+          "CureAnswer": "Equator",
+          "Question": "At which particular place on earth are days and nights of equal length always?",
+          "Answers": [
+            "Prime Meridian",
+            "Poles",
+            "Equator",
+            "South Pole",
+            "No where"
+          ]
+        },
+        {
+          "id": "7",
+          "CureAnswer": "Astronomy",
+          "Question": "The study of Heavenly bodies is called",
+          "Answers": [
+            "Astronomy",
+            "Astrology",
+            "Astrophysics",
+            "Astronautics",
+            "Other"
+          ]
+        },
+        {
+          "id": "8",
+          "CureAnswer": "Delhi",
+          "Question": "Kempegowda Festival was organized in which city ?",
+          "Answers": [
+            "Hyderabad",
+            "Delhi",
+            "Mumbai",
+            "Chennai",
+            "Kolkata"
+          ]
+        },
+        {
+          "id": "9",
+          "CureAnswer": "Kalology",
+          "Question": "What is the Study of human beauty called?",
+          "Answers": [
+            "Argology",
+            "Kalology",
+            "Agrostology",
+            "Oncology",
+            "Angeology"
+          ]
+        },
+        {
+          "id": "10",
+          "CureAnswer": "Caricaxanthin",
+          "Question": "Yellow colour of papaya is due to",
+          "Answers": [
+            "Caricaxanthin",
+            "Carotene",
+            "Lycopene",
+            "Papain",
+            "Canin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "CandidateName": "ABHAY",
+      "CandidatePassword": "ABHAY",
+      "CandidateAnswerKey": [
+        {
+          "id": "1",
+          "CureAnswer": "Ocean depth",
+          "Question": "Fathometer is used to measure",
+          "Answers": [
+            " Earthquakes",
+            "Rainfall",
+            "Ocean depth",
+            "Sound intensity",
+            "Other"
+          ],
+          "Option": "3",
+          "OptionText": "Ocean depth"
+        },
+        {
+          "id": "2",
+          "CureAnswer": "Dr. A.P.J. Abdul Kalam",
+          "Question": "Who is known as 'the father of Indian missile technology'?",
+          "Answers": [
+            "Dr. U.R. Rao",
+            "Dr. A.P.J. Abdul Kalam",
+            "Dr. Chidambaram",
+            "Dr. Homi Bhabha",
+            "Other"
+          ],
+          "Option": "3",
+          "OptionText": "Dr. Chidambaram"
+        },
+        {
+          "id": "3",
+          "CureAnswer": "they produce high pitched sounds called ultrasonics",
+          "Question": "Bats can fly in the dark because",
+          "Answers": [
+            " they have a better vision in the dark",
+            "he light startles in them",
+            "they produce high pitched sounds called ultrasonics",
+            "they have God Gift",
+            "none of the above"
+          ],
+          "Option": "4",
+          "OptionText": "they have God Gift"
+        },
+        {
+          "id": "4",
+          "CureAnswer": "Mumbai",
+          "Question": "Which is considered as the biggest port of India?",
+          "Answers": [
+            "Kolkata",
+            "Cochin",
+            "Chennai",
+            "Mumbai",
+            "Delhi"
+          ],
+          "Answers0": [
+            "Kolkata"
+          ]
+        },
+        {
+          "id": "5",
+          "CureAnswer": "Railways",
+          "Question": "The biggest public sector undertaking in the country is",
+          "Answers": [
+            "Iron and steel Plants",
+            "Roadways",
+            "Railways",
+            "Airways",
+            "SeaWays"
+          ]
+        },
+        {
+          "id": "6",
+          "CureAnswer": "Equator",
+          "Question": "At which particular place on earth are days and nights of equal length always?",
+          "Answers": [
+            "Prime Meridian",
+            "Poles",
+            "Equator",
+            "South Pole",
+            "No where"
+          ]
+        },
+        {
+          "id": "7",
+          "CureAnswer": "Astronomy",
+          "Question": "The study of Heavenly bodies is called",
+          "Answers": [
+            "Astronomy",
+            "Astrology",
+            "Astrophysics",
+            "Astronautics",
+            "Other"
+          ]
+        },
+        {
+          "id": "8",
+          "CureAnswer": "Delhi",
+          "Question": "Kempegowda Festival was organized in which city ?",
+          "Answers": [
+            "Hyderabad",
+            "Delhi",
+            "Mumbai",
+            "Chennai",
+            "Kolkata"
+          ]
+        },
+        {
+          "id": "9",
+          "CureAnswer": "Kalology",
+          "Question": "What is the Study of human beauty called?",
+          "Answers": [
+            "Argology",
+            "Kalology",
+            "Agrostology",
+            "Oncology",
+            "Angeology"
+          ]
+        },
+        {
+          "id": "10",
+          "CureAnswer": "Caricaxanthin",
+          "Question": "Yellow colour of papaya is due to",
+          "Answers": [
+            "Caricaxanthin",
+            "Carotene",
+            "Lycopene",
+            "Papain",
+            "Canin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "CandidateName": "ABHAY",
+      "CandidatePassword": "ABHAY",
+      "CandidateAnswerKey": [
+        {
+          "id": "1",
+          "CureAnswer": "Ocean depth",
+          "Question": "Fathometer is used to measure",
+          "Answers": [
+            " Earthquakes",
+            "Rainfall",
+            "Ocean depth",
+            "Sound intensity",
+            "Other"
+          ],
+          "Option": "3",
+          "OptionText": "Ocean depth"
+        },
+        {
+          "id": "2",
+          "CureAnswer": "Dr. A.P.J. Abdul Kalam",
+          "Question": "Who is known as 'the father of Indian missile technology'?",
+          "Answers": [
+            "Dr. U.R. Rao",
+            "Dr. A.P.J. Abdul Kalam",
+            "Dr. Chidambaram",
+            "Dr. Homi Bhabha",
+            "Other"
+          ],
+          "Option": "3",
+          "OptionText": "Dr. Chidambaram"
+        },
+        {
+          "id": "3",
+          "CureAnswer": "they produce high pitched sounds called ultrasonics",
+          "Question": "Bats can fly in the dark because",
+          "Answers": [
+            " they have a better vision in the dark",
+            "he light startles in them",
+            "they produce high pitched sounds called ultrasonics",
+            "they have God Gift",
+            "none of the above"
+          ],
+          "Option": "4",
+          "OptionText": "they have God Gift"
+        },
+        {
+          "id": "4",
+          "CureAnswer": "Mumbai",
+          "Question": "Which is considered as the biggest port of India?",
+          "Answers": [
+            "Kolkata",
+            "Cochin",
+            "Chennai",
+            "Mumbai",
+            "Delhi"
+          ],
+          "Answers0": [
+            "Kolkata"
+          ]
+        },
+        {
+          "id": "5",
+          "CureAnswer": "Railways",
+          "Question": "The biggest public sector undertaking in the country is",
+          "Answers": [
+            "Iron and steel Plants",
+            "Roadways",
+            "Railways",
+            "Airways",
+            "SeaWays"
+          ]
+        },
+        {
+          "id": "6",
+          "CureAnswer": "Equator",
+          "Question": "At which particular place on earth are days and nights of equal length always?",
+          "Answers": [
+            "Prime Meridian",
+            "Poles",
+            "Equator",
+            "South Pole",
+            "No where"
+          ]
+        },
+        {
+          "id": "7",
+          "CureAnswer": "Astronomy",
+          "Question": "The study of Heavenly bodies is called",
+          "Answers": [
+            "Astronomy",
+            "Astrology",
+            "Astrophysics",
+            "Astronautics",
+            "Other"
+          ]
+        },
+        {
+          "id": "8",
+          "CureAnswer": "Delhi",
+          "Question": "Kempegowda Festival was organized in which city ?",
+          "Answers": [
+            "Hyderabad",
+            "Delhi",
+            "Mumbai",
+            "Chennai",
+            "Kolkata"
+          ]
+        },
+        {
+          "id": "9",
+          "CureAnswer": "Kalology",
+          "Question": "What is the Study of human beauty called?",
+          "Answers": [
+            "Argology",
+            "Kalology",
+            "Agrostology",
+            "Oncology",
+            "Angeology"
+          ]
+        },
+        {
+          "id": "10",
+          "CureAnswer": "Caricaxanthin",
+          "Question": "Yellow colour of papaya is due to",
+          "Answers": [
+            "Caricaxanthin",
+            "Carotene",
+            "Lycopene",
+            "Papain",
+            "Canin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "CandidateName": "ABHAY",
+      "CandidatePassword": "ABHAY",
+      "CandidateAnswerKey": [
+        {
+          "id": "1",
+          "CureAnswer": "Ocean depth",
+          "Question": "Fathometer is used to measure",
+          "Answers": [
+            " Earthquakes",
+            "Rainfall",
+            "Ocean depth",
+            "Sound intensity",
+            "Other"
+          ],
+          "Option": "3",
+          "OptionText": "Ocean depth"
+        },
+        {
+          "id": "2",
+          "CureAnswer": "Dr. A.P.J. Abdul Kalam",
+          "Question": "Who is known as 'the father of Indian missile technology'?",
+          "Answers": [
+            "Dr. U.R. Rao",
+            "Dr. A.P.J. Abdul Kalam",
+            "Dr. Chidambaram",
+            "Dr. Homi Bhabha",
+            "Other"
+          ]
+        },
+        {
+          "id": "3",
+          "CureAnswer": "they produce high pitched sounds called ultrasonics",
+          "Question": "Bats can fly in the dark because",
+          "Answers": [
+            " they have a better vision in the dark",
+            "he light startles in them",
+            "they produce high pitched sounds called ultrasonics",
+            "they have God Gift",
+            "none of the above"
+          ]
+        },
+        {
+          "id": "4",
+          "CureAnswer": "Mumbai",
+          "Question": "Which is considered as the biggest port of India?",
+          "Answers": [
+            "Kolkata",
+            "Cochin",
+            "Chennai",
+            "Mumbai",
+            "Delhi"
+          ],
+          "Answers0": [
+            "Kolkata"
+          ]
+        },
+        {
+          "id": "5",
+          "CureAnswer": "Railways",
+          "Question": "The biggest public sector undertaking in the country is",
+          "Answers": [
+            "Iron and steel Plants",
+            "Roadways",
+            "Railways",
+            "Airways",
+            "SeaWays"
+          ]
+        },
+        {
+          "id": "6",
+          "CureAnswer": "Equator",
+          "Question": "At which particular place on earth are days and nights of equal length always?",
+          "Answers": [
+            "Prime Meridian",
+            "Poles",
+            "Equator",
+            "South Pole",
+            "No where"
+          ],
+          "Option": "3",
+          "OptionText": "Equator"
+        },
+        {
+          "id": "7",
+          "CureAnswer": "Astronomy",
+          "Question": "The study of Heavenly bodies is called",
+          "Answers": [
+            "Astronomy",
+            "Astrology",
+            "Astrophysics",
+            "Astronautics",
+            "Other"
+          ]
+        },
+        {
+          "id": "8",
+          "CureAnswer": "Delhi",
+          "Question": "Kempegowda Festival was organized in which city ?",
+          "Answers": [
+            "Hyderabad",
+            "Delhi",
+            "Mumbai",
+            "Chennai",
+            "Kolkata"
+          ],
+          "Option": "2",
+          "OptionText": "Delhi"
+        },
+        {
+          "id": "9",
+          "CureAnswer": "Kalology",
+          "Question": "What is the Study of human beauty called?",
+          "Answers": [
+            "Argology",
+            "Kalology",
+            "Agrostology",
+            "Oncology",
+            "Angeology"
+          ]
+        },
+        {
+          "id": "10",
+          "CureAnswer": "Caricaxanthin",
+          "Question": "Yellow colour of papaya is due to",
+          "Answers": [
+            "Caricaxanthin",
+            "Carotene",
+            "Lycopene",
+            "Papain",
+            "Canin"
+          ],
+          "Option": "3",
+          "OptionText": "Lycopene"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "CandidateName": "ABHAY",
+      "CandidatePassword": "ABHAY",
+      "CandidateAnswerKey": [
+        {
+          "id": "1",
+          "CureAnswer": "Ocean depth",
+          "Question": "Fathometer is used to measure",
+          "Answers": [
+            " Earthquakes",
+            "Rainfall",
+            "Ocean depth",
+            "Sound intensity",
+            "Other"
+          ],
+          "Option": "3",
+          "OptionText": "Ocean depth"
+        },
+        {
+          "id": "2",
+          "CureAnswer": "Dr. A.P.J. Abdul Kalam",
+          "Question": "Who is known as 'the father of Indian missile technology'?",
+          "Answers": [
+            "Dr. U.R. Rao",
+            "Dr. A.P.J. Abdul Kalam",
+            "Dr. Chidambaram",
+            "Dr. Homi Bhabha",
+            "Other"
+          ]
+        },
+        {
+          "id": "3",
+          "CureAnswer": "they produce high pitched sounds called ultrasonics",
+          "Question": "Bats can fly in the dark because",
+          "Answers": [
+            " they have a better vision in the dark",
+            "he light startles in them",
+            "they produce high pitched sounds called ultrasonics",
+            "they have God Gift",
+            "none of the above"
+          ]
+        },
+        {
+          "id": "4",
+          "CureAnswer": "Mumbai",
+          "Question": "Which is considered as the biggest port of India?",
+          "Answers": [
+            "Kolkata",
+            "Cochin",
+            "Chennai",
+            "Mumbai",
+            "Delhi"
+          ],
+          "Answers0": [
+            "Kolkata"
+          ]
+        },
+        {
+          "id": "5",
+          "CureAnswer": "Railways",
+          "Question": "The biggest public sector undertaking in the country is",
+          "Answers": [
+            "Iron and steel Plants",
+            "Roadways",
+            "Railways",
+            "Airways",
+            "SeaWays"
+          ]
+        },
+        {
+          "id": "6",
+          "CureAnswer": "Equator",
+          "Question": "At which particular place on earth are days and nights of equal length always?",
+          "Answers": [
+            "Prime Meridian",
+            "Poles",
+            "Equator",
+            "South Pole",
+            "No where"
+          ],
+          "Option": "3",
+          "OptionText": "Equator"
+        },
+        {
+          "id": "7",
+          "CureAnswer": "Astronomy",
+          "Question": "The study of Heavenly bodies is called",
+          "Answers": [
+            "Astronomy",
+            "Astrology",
+            "Astrophysics",
+            "Astronautics",
+            "Other"
+          ]
+        },
+        {
+          "id": "8",
+          "CureAnswer": "Delhi",
+          "Question": "Kempegowda Festival was organized in which city ?",
+          "Answers": [
+            "Hyderabad",
+            "Delhi",
+            "Mumbai",
+            "Chennai",
+            "Kolkata"
+          ],
+          "Option": "2",
+          "OptionText": "Delhi"
+        },
+        {
+          "id": "9",
+          "CureAnswer": "Kalology",
+          "Question": "What is the Study of human beauty called?",
+          "Answers": [
+            "Argology",
+            "Kalology",
+            "Agrostology",
+            "Oncology",
+            "Angeology"
+          ]
+        },
+        {
+          "id": "10",
+          "CureAnswer": "Caricaxanthin",
+          "Question": "Yellow colour of papaya is due to",
+          "Answers": [
+            "Caricaxanthin",
+            "Carotene",
+            "Lycopene",
+            "Papain",
+            "Canin"
+          ],
+          "Option": "3",
+          "OptionText": "Lycopene"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "CandidateName": "ABHAY",
+      "CandidatePassword": "ABHAY",
+      "CandidateAnswerKey": [
+        {
+          "id": "1",
+          "CureAnswer": "Ocean depth",
+          "Question": "Fathometer is used to measure",
+          "Answers": [
+            " Earthquakes",
+            "Rainfall",
+            "Ocean depth",
+            "Sound intensity",
+            "Other"
+          ],
+          "Option": "3",
+          "OptionText": "Ocean depth"
+        },
+        {
+          "id": "2",
+          "CureAnswer": "Dr. A.P.J. Abdul Kalam",
+          "Question": "Who is known as 'the father of Indian missile technology'?",
+          "Answers": [
+            "Dr. U.R. Rao",
+            "Dr. A.P.J. Abdul Kalam",
+            "Dr. Chidambaram",
+            "Dr. Homi Bhabha",
+            "Other"
+          ]
+        },
+        {
+          "id": "3",
+          "CureAnswer": "they produce high pitched sounds called ultrasonics",
+          "Question": "Bats can fly in the dark because",
+          "Answers": [
+            " they have a better vision in the dark",
+            "he light startles in them",
+            "they produce high pitched sounds called ultrasonics",
+            "they have God Gift",
+            "none of the above"
+          ]
+        },
+        {
+          "id": "4",
+          "CureAnswer": "Mumbai",
+          "Question": "Which is considered as the biggest port of India?",
+          "Answers": [
+            "Kolkata",
+            "Cochin",
+            "Chennai",
+            "Mumbai",
+            "Delhi"
+          ],
+          "Answers0": [
+            "Kolkata"
+          ]
+        },
+        {
+          "id": "5",
+          "CureAnswer": "Railways",
+          "Question": "The biggest public sector undertaking in the country is",
+          "Answers": [
+            "Iron and steel Plants",
+            "Roadways",
+            "Railways",
+            "Airways",
+            "SeaWays"
+          ]
+        },
+        {
+          "id": "6",
+          "CureAnswer": "Equator",
+          "Question": "At which particular place on earth are days and nights of equal length always?",
+          "Answers": [
+            "Prime Meridian",
+            "Poles",
+            "Equator",
+            "South Pole",
+            "No where"
+          ]
+        },
+        {
+          "id": "7",
+          "CureAnswer": "Astronomy",
+          "Question": "The study of Heavenly bodies is called",
+          "Answers": [
+            "Astronomy",
+            "Astrology",
+            "Astrophysics",
+            "Astronautics",
+            "Other"
+          ]
+        },
+        {
+          "id": "8",
+          "CureAnswer": "Delhi",
+          "Question": "Kempegowda Festival was organized in which city ?",
+          "Answers": [
+            "Hyderabad",
+            "Delhi",
+            "Mumbai",
+            "Chennai",
+            "Kolkata"
+          ]
+        },
+        {
+          "id": "9",
+          "CureAnswer": "Kalology",
+          "Question": "What is the Study of human beauty called?",
+          "Answers": [
+            "Argology",
+            "Kalology",
+            "Agrostology",
+            "Oncology",
+            "Angeology"
+          ]
+        },
+        {
+          "id": "10",
+          "CureAnswer": "Caricaxanthin",
+          "Question": "Yellow colour of papaya is due to",
+          "Answers": [
+            "Caricaxanthin",
+            "Carotene",
+            "Lycopene",
+            "Papain",
+            "Canin"
+          ]
+        }
+      ]
+    }
+  ]
+}
